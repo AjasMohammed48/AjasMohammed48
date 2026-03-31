@@ -20,12 +20,13 @@ Passionate about transforming data into actionable insights, I thrive at the int
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AjasMohammed48&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjasMohammed48&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AjasMohammed48&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjasMohammed48&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
+---
 ---
 
 ### 🌱 Currently
