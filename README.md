@@ -14,19 +14,7 @@ Passionate about transforming data into actionable insights, I thrive at the int
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-333?style=for-the-badge&logo=datascience&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-333?style=for-the-badge&logo=artificialintelligence&logoColor=white) ![Big Data](https://img.shields.io/badge/Big%20Data-333?style=for-the-badge&logo=bigdata&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-333?style=for-the-badge&logo=nlp&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-333?style=for-the-badge&logo=dataanalytics&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-333?style=for-the-badge&logo=deeplearning&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-333?style=for-the-badge&logo=excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi&logoColor=white) ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-333?style=for-the-badge&logo=ibmcognos&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjasMohammed48&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjasMohammed48&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
 ---
 
 ### 🌱 Currently
