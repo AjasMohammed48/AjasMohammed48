@@ -41,7 +41,6 @@ Passionate about transforming data into actionable insights, I thrive at the int
 
 <div align="center">
 
-⚡ I once analyzed a dataset on my favorite travel destinations and created a personalized trip itinerary based on data-driven insights.
 
 </div>
 
