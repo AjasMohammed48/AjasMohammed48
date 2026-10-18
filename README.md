@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Ajas Mohammed - Data & AI Engineer"/>
 
 <a href="https://github.com/AjasMohammed48">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B8892B&center=true&vCenter=true&width=760&lines=Junior+AI+Engineer+%7C+Agentic+AI+%26+LLM;Data+Analyst+%7C+Advanced+Excel+%26+Power+BI;AI+%26+ML+Engineer+%7C+Python+%26+SQL;Patent-Granted+Builder+of+Physics-Constrained+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B8892B&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Agentic+AI+%26+LLM;Data+Analyst+%7C+Advanced+Excel+%26+Power+BI;AI+%26+ML+Engineer+%7C+Python+%26+SQL;Patent-Granted+Builder+of+Physics-Constrained+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
