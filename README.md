@@ -1,7 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14284B&height=230&section=header&text=Ajas%20Mohammed&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20Power%20BI%20%7C%20Machine%20Learning&descSize=20&descColor=E6C26E&descAlignY=60&animation=fadeIn" width="100%" alt="Ajas Mohammed header"/>
+<img src="assets/header.svg" width="100%" alt="Ajas Mohammed header"/>
 
 <a href="https://github.com/AjasMohammed48">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B8892B&center=true&vCenter=true&width=760&lines=Junior+AI+Engineer+%7C+Agentic+AI+%26+LLM;Data+Analyst+%7C+Advanced+Excel+%26+Power+BI;AI+%26+ML+Engineer+%7C+Python+%26+SQL;Patent-Granted+Builder+of+Physics-Constrained+AI" alt="Typing SVG" />
@@ -17,8 +17,6 @@
 <a href="https://www.linkedin.com/in/ajas-mohammed-771265291/"><img src="https://img.shields.io/badge/LinkedIn-14284B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ajasmohd48@gmail.com"><img src="https://img.shields.io/badge/Email-B8892B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/AjasMohammed48"><img src="https://img.shields.io/badge/GitHub-B8892B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=AjasMohammed48&label=Profile%20Views&color=B8892B&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -197,6 +195,6 @@ Interactive Excel dashboard with **Pivot Tables & PivotCharts** tracking order v
 
 <sub>⭐ Thanks for stopping by. If something here caught your eye, let's talk.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8892B&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="assets/footer.svg" width="100%" alt="Footer"/>
 
 </div>
